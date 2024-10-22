@@ -32,10 +32,13 @@ code .
 ```
 
 3 - *Star this repository* ⭐
+4 - run this commande 
+```bash
+g++ src/*.cpp  src/*.c -IC:\Users\yourname\Desktop\learnOpGL\include -LC:\Users\yourname\Desktop\learnOpGL\lib -lglfw3dll -o builds/main; builds/main
+```
 
-4 - press F1, and click on Task: Run build Task
-
-- the executable file should be generated in *'builds'* folder
+- u can also press F1, and click on Task: Run build Task
+> the executable file should be generated in *'builds'* folder
 
 ## Acknowledgements
 
